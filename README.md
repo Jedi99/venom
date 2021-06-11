@@ -1,8 +1,7 @@
-# venom
+# venom - GloAcademy project
 ##Author: Gafurov Timur
 
-Test-page Venom 2
-Techniques:
--HTML
--CSS
--Normalize.css
+Instruments:
+- HTML
+- CSS
+- Normalize.css
